@@ -37,11 +37,8 @@ console.log("\n" + NFTs.length);
 }
 // call your functions below this line
 mintNFT("Sanyam" , "30" ,"715-B");
-console.log("\n");
 mintNFT("Shivam" , "25" ,"700-A");
-console.log("\n");
 mintNFT("Srijan" , "28" ,"615-B");
-console.log("\n");
 listNFTs();
 getTotalSupply();
 
